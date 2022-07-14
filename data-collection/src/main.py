@@ -6,9 +6,8 @@ def getData(num, sticky, csv_location):
     header(csv_location)
     redditToCsv(num, sticky, csv_location)
 
-getData(1000, 2, "../../data.csv")
-
-"""
-getData(5, 2, "../.././machine-learning/src/training.csv")
-"""
+print("Starting Data collection")
+getData(2000, 2, "../../data/data.csv")
+print("Starting Training collection")
+getData(2000, 2, "../../data/training.csv")
 
