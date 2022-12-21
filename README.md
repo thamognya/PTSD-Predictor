@@ -1,6 +1,6 @@
 # PTSD Detetor 
 
-Try it out: [ml.api.pocketmedi.live](https://ml.api.pocketmedi.live)
+### Try it out: [ml.api.pocketmedi.live](https://ml.api.pocketmedi.live) and [bot.api.pocketmedi.live](https://bot.api.pocketmedi.live)
 
 This is a machine learning PTSD chat bot, API, and predictor. This is by no means a accurate prediction and not an replacement for a doctors visit or for any serious situations.
 
